@@ -1,0 +1,1 @@
+{"name":"Local: K_odd_sum","url":"e:\\VSCODE\\K_odd_sum.cpp","tests":[{"id":1706724804454,"input":"2\n2 1\n4 2","output":"2 1\n4 3 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\VSCODE\\K_odd_sum.cpp","group":"local","local":true}

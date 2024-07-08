@@ -1,0 +1,1 @@
+{"name":"Local: graph","url":"e:\\VSCODE\\graph.cpp","tests":[{"id":1708449739801,"input":"4 5\n1 2\n1 3\n2 3\n2 4\n3 4\n\n","output":""},{"id":1708451569833,"input":"4 3\n2 3\n2 4\n3 4\n","output":""},{"id":1708451605265,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\VSCODE\\graph.cpp","group":"local","local":true}
